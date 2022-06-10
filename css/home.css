@@ -1,0 +1,26 @@
+html{
+  background:url("img1/background.jpg")no-repeat center fixed;
+  background-size: cover;
+}
+h1{
+  font-size: 50px;
+  font-weight: 900;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color:black;
+}
+body{
+  background: rgba (255, 255, 255, 0.8);
+    width: 500px;
+    padding: 50px 100px;
+    margin: 25px auto;
+    border-radius: 250px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  a{
+    color: black;
+    font-weight: 700;
+  }
+    img {
+      max-width: 100%;
+      max-height: 100%;
+    }

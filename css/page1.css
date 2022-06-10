@@ -1,0 +1,41 @@
+html {
+    background: url("img1/background.jpg")no-repeat center fixed;
+    background-size: cover;
+  }
+body{
+  background: rgba (255, 255, 255, 0.8);
+    width: 500px;
+    padding: 50px 100px;
+    margin: 25px auto;
+    border-radius: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  h1{
+    font-size: 42px;
+    font-variant: small-caps;
+  }
+  
+  h1, h2 {
+    font-family: Gerogia, 'Times New Roman', Times, serif;
+   color:gray}
+   p1{
+     font-family:'Times New Roman', Times, serif;
+     color:whitesmoke
+   }
+   P{
+    font-style: italic;
+    color:navy;
+  font-weight: bolder;
+   }
+   li {
+    font-weight: 700;
+    color: grey;
+  }
+  img {
+    max-width: 100%;
+    max-height: 100%;
+   }
+   a{
+    color: black;
+    font-weight: 700;
+  }
